@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="SSDKTB4.ConsoleApp/SSDKTB4.ConsoleApp.csproj" />
+  <Project Path="SSDKTB4.ConsoleApp3/SSDKTB4.ConsoleApp3.Database/SSDKTB4.ConsoleApp3.Database.csproj" />
+  <Project Path="SSDKTB4.ConsoleApp3/SSDKTB4.ConsoleApp3/SSDKTB4.ConsoleApp3.csproj" />
+  <Project Path="SSDKTB4.ConsoleApp4/SSDKTB4.ConsoleApp4.Database/SSDKTB4.ConsoleApp4.Database.csproj" />
+  <Project Path="SSDKTB4.ConsoleApp4/SSDKTB4.ConsoleApp4/SSDKTB4.ConsoleApp4.csproj" />
+  <Project Path="SSDKTB4.HomeWorkCombination.ConsoleApp/SSDKTB4.HomeWorkCombination.ConsoleApp.csproj" />
+  <Project Path="SSDKTB4.PickAPile.JsonToData/SSDKTB4.PickAPile.JsonToData/SSDKTB4.PickAPile.JsonToData.csproj" />
+  <Project Path="SSDKTB4.PickAPile.JsonToData/SSDKTB4.PickAPile.WebApi/SSDKTB4.PickAPile.WebApi.csproj" />
+  <Project Path="SSDKTB4.TicketManagement.ConsoleApp2/SSDKTB4.TicketManagement.ConsoleApp2/SSDKTB4.TicketManagement.ConsoleApp2.csproj" />
+  <Project Path="SSDKTB4.WebApi/SSDKTB4.WebApi.ConsoleApp/SSDKTB4.WebApi.ConsoleApp.csproj" />
+  <Project Path="SSDKTB4.WebApi/SSDKTB4.WebApi.Database/SSDKTB4.WebApi.Database.csproj" />
+  <Project Path="SSDKTB4.WebApi/SSDKTB4.WebApi/SSDKTB4.WebApi.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@SSDKTB4.WebApi_HostAddress = http://localhost:5218
+
+GET {{SSDKTB4.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
